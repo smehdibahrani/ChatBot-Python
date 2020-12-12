@@ -1,4 +1,4 @@
-# ChatBot-Python
+# ChatBot Python Client
 dependencies libraries:
 
 ```bash
